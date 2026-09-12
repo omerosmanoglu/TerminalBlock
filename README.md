@@ -1,8 +1,16 @@
 # 🛡️ Terminal Block
 
+🇹🇷 **Türkçe**
+
 Web sayfalarının panoya PowerShell veya Windows komutları yazmasını algılayan, şüpheli komutları engelleyen ve panoyu temizleyen Chrome eklentisi.
 
 Terminal Block, özellikle **ClickFix / TerminalFix** gibi sahte CAPTCHA ve doğrulama ekranları üzerinden gerçekleştirilen sosyal mühendislik saldırılarına karşı tarayıcı tarafında ek bir güvenlik katmanı sağlamayı amaçlar.
+
+🇬🇧 **English**
+
+A Chrome extension that detects when web pages write PowerShell or Windows commands to the clipboard, blocks suspicious commands, and clears the clipboard.
+
+Terminal Block provides an additional browser-side security layer against social engineering attacks, especially **ClickFix / TerminalFix**, which use fake CAPTCHA and verification screens to trick users into executing malicious commands.
 
 ---
 
